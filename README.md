@@ -24,8 +24,8 @@ const Pargras = require('pargras');
 
 ### Browser
 You can download the latest release from the repository
-* [`pargras.js`](https://github.com/belexos/pargras/blob/master/pargras.js) unminified, including comments
-* [`pargras.min.js`](https://github.com/belexos/pargras/blob/master/pargras.min.js) minified version
+* [`pargras.js`](https://github.com/tbillenstein/pargras/blob/master/pargras.js) unminified, including comments
+* [`pargras.min.js`](https://github.com/tbillenstein/pargras/blob/master/pargras.min.js) minified version
 
 Use a script tag to directly add `Pargras` to the global scope.
 
@@ -139,7 +139,7 @@ afunc(1, 2, 3, 4);
 
 More examples
 -------------
-Please refer to the [test spec](https://github.com/belexos/pargras/blob/master/spec/PargrasSpec.js) for more examples.
+Please refer to the [test spec](https://github.com/tbillenstein/pargras/blob/master/spec/PargrasSpec.js) for more examples.
 
 
 Testing
@@ -169,7 +169,7 @@ Build
 
 Contribution
 ------------
-Please use [Github issues](https://github.com/belexos/pargras/issues) for requests.
+Please use [Github issues](https://github.com/tbillenstein/pargras/issues) for requests.
 
 Pull requests are welcome.
 
@@ -188,8 +188,8 @@ in the issue which will reproduce the bug.
 
 Support
 -------
-* Send us an email: [support@belexos.com](mailto:support@belexos.com)
-* Follow us on Twitter: [@belexos](http://twitter.com/belexos)
+* Send us an email: [tb@thomasbillenstein.com](mailto:tb@thomasbillenstein.com)
+* Follow us on Twitter: [@tbillenstein](https://x.com/tbillenstein/)
 
 
 Changelog
@@ -218,4 +218,4 @@ v1.0.0
 
 License
 -------
-Copyright (c) 2016-present, Belexos. `Pargras` is licensed under the [MIT License](https://github.com/belexos/pargras/blob/master/LICENSE).
+Copyright (c) 2016-present, tbillenstein. `Pargras` is licensed under the [MIT License](https://github.com/tbillenstein/pargras/blob/master/LICENSE).
